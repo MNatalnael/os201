@@ -1,0 +1,11 @@
+Sistem Operasi - Kelas B
+Dosen: Rahmat M. Samik-Ibrahim
+Week 1 - Log
+
+Created by:
+Nama: Mikhael Natalnael
+NPM: 1806147041
+
+
+Log for Week01
+DONE!
